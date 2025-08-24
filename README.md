@@ -1,5 +1,5 @@
 
-# Pitch Awareness Game
+> # Pitch Awareness Game
 ![Main Menu Screeshoot](https://raw.githubusercontent.com/santiagopaniaguam/PerfectPitchGame/refs/heads/main/MainMenuScreenshoot%20Pitch%20Awareness%20Game.PNG) 
 
 These was developed as a test to work for a company as a  Game Dev Teacher in python. The lessons were for South America so the people assesing me were primarily spanish speakers, that is why the readme in this way.
@@ -19,6 +19,7 @@ Inmediatamente despues se escuchará el dictado, el jugador deberá replicarlo e
 El juego tiene una ayuda gráfica al lado derecho, las partes que se iluminan de verde representan cada una de las 3 notas que suenan al comenzar el juego.
 
 El jugador tiene hasta 3 intentos para acertar. Cuando el jugador acierta sale en verde "Excellent!"
+
 
 
 
